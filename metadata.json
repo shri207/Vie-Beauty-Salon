@@ -1,0 +1,6 @@
+{
+  "name": "Vie Beauty Salon",
+  "description": "Premium beauty salon in Kuwait City offering natural hair treatments, massages, and relaxation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
